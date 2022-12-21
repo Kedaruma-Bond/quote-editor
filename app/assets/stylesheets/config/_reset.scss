@@ -69,6 +69,9 @@ a {
   color: var(--color-primary);
   text-decoration: none;
   transition: color 200ms;
+  margin-top: auto;
+  margin-bottom: auto;
+
 
   &:hover,
   &:focus,
